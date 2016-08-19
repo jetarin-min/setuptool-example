@@ -1,0 +1,5 @@
+*.tmp
+*.pyc
+modules/*/*.egg-info
+modules/*/__pycache__
+modules/*/*/__pycache__

@@ -1,2 +1,2 @@
-class test:
-    var1 = 'ABC'
+class MainConfig:
+    var1 = 'this is main config'
